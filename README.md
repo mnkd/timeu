@@ -1,0 +1,2 @@
+# timec
+time calculator
