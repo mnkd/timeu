@@ -1,2 +1,2 @@
-# timec
-time calculator
+# timeu
+time utility.
